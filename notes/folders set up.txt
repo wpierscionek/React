@@ -19,3 +19,9 @@ Folders setup
 4. Inside the config folder create routes.js file
 
 5. Inside the utils folder create helpers.js file
+
+6. Inside the public folder create: 
+   bundle.js file
+   index.html file
+   index_design file
+   
