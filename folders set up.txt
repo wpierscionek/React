@@ -1,0 +1,21 @@
+REACT.JS
+
+Folders setup
+-------------
+1. Create package.json
+   webpack.config
+   app folder
+   public folder
+
+2. Inside the App folder create: 
+   components, config, utils folders
+   and app.js file
+
+3. Inside components create react components which are js files:
+   ex: Home.js
+       Main.js
+       Profile.js
+
+4. Inside the config folder create routes.js file
+
+5. Inside the utils folder create helpers.js file
